@@ -1,0 +1,20 @@
+#!/bin/bash
+sudo ufw allow in 5222/tcp
+sudo ufw allow out 5222/tcp
+sudo ufw allow in 3478/udp
+sudo ufw allow out 3478/udp
+sudo ufw allow in 3479/udp 
+sudo ufw allow out 3479/udp
+sudo ufw allow in 45395/udp
+sudo ufw allow out 45395/udp
+sudo ufw allow in 50318/udp
+sudo ufw allow out 50318/udp
+sudo ufw allow in 59234/udp 
+sudo ufw allow out 59234/udp
+sudo ufw allow in 5223/tcp 
+sudo ufw allow out 5223/tcp
+sudo ufw allow in 843/tcp 
+sudo ufw allow out 843/tcp
+sudo ufw allow in 5000/udp 
+sudo ufw allow out 5000/udp
+sudo ufw allow in 5001/udp
