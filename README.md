@@ -1,4 +1,4 @@
-# SPO
+# Social Ports Opener
 Quick Install:
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/monhacer/SPO/main/OpenPorts.sh)
